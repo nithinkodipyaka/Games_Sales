@@ -1,5 +1,5 @@
 # Games_Sales
-Sales Analysis on Video Games
+Sales Analysis and Prediction on Video Games
 
 This project is about analyzing video game sales data using Python and several data analysis libraries. We explore the distribution of various features such as platforms, genres, publishers, and sales in different regions.
 
